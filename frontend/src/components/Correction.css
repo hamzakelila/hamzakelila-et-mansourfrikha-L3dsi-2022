@@ -1,0 +1,22 @@
+.test-for-popup {
+    margin: 1.5em 0 0;
+    text-align: initial !important;
+    padding: 20px;
+    border: 1px solid #ccc !important;
+    border-radius: 16px;
+    background-color: aliceblue;
+}
+
+.test-for-popup .test-header {
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.test-for-popup pre {
+    border: 1px solid #aaa;
+    background-color: #eee;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    padding: 2px 5px;
+
+}
